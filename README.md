@@ -4,11 +4,11 @@ Welcome to **Elyssa**, a mobile application designed with love and care, tailore
 
 ## Main Idea 💡
 
- is a personalized mobile application crafted with the sole aim of empowering women of all ages. It serves as a one-stop solution offering a variety of features tailored to cater to the diverse needs of women, including self-defense techniques, educational resources, mental health support, employment opportunities, and safe transportation.
+Elyssa is a personalized mobile application crafted with the sole aim of empowering women of all ages. It serves as a one-stop solution offering a variety of features tailored to cater to the diverse needs of women, including self-defense techniques, educational resources, mental health support, employment opportunities, and safe transportation.
 
 ## Problem it Solves 🌟
 
-In many societies, women face unique challenges related to safety, education, and career opportunities.  addresses these challenges by providing a platform where women can access essential tools and resources to enhance their safety, learning, and overall well-being. Elyssa steps in to bridge these gaps by providing a comprehensive platform that caters to the holistic development and empowerment of women.
+In many societies, women face unique challenges related to safety, education, and career opportunities. Elyssa addresses these challenges by providing a platform where women can access essential tools and resources to enhance their safety, learning, and overall well-being. Elyssa steps in to bridge these gaps by providing a comprehensive platform that caters to the holistic development and empowerment of women.
 
 ## Features 🚀
 
@@ -43,7 +43,6 @@ In many societies, women face unique challenges related to safety, education, an
 - **Safety First**: Elyssa's online cab booking system prioritizes safety by exclusively employing women drivers, ensuring a secure travel experience for all users.
 - **Empowerment through Employment**: By offering employment opportunities for women drivers, Elyssa promotes gender equality and economic empowerment.
 
-
 ## Glimpse 📱
 <img src="https://github.com/Celebi07/kiya/blob/main/assets/screenshots/photo12.jpg" width="300px" height="600px" alt="Kiya Preview">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/Celebi07/kiya/blob/main/assets/screenshots/photo11.jpg" width="300px" height="600px" alt="Kiya Preview">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -71,7 +70,7 @@ To get started with Elyssa, follow these steps:
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/Celebi07/Elyssa.git
+    git clone https://github.com/Celebi07/Elyssa
     ```
 
 2. **Navigate to the project directory:**
